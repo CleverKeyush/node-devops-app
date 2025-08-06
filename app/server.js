@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
     <html lang="en">
     <head>
       <meta charset="UTF-8">
-      <title>Node.js DevOps App v2</title>
+      <title>Node.js DevOps App v6</title>
     </head>
     <body style="font-family: Arial, sans-serif; background-color: #f0f4f8; text-align: center; padding-top: 50px;">
       <h1 style="color: #2b6cb0; font-size: 36px;">
