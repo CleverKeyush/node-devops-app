@@ -12,7 +12,7 @@ app.get("/", (req, res) => {
     </head>
     <body style="font-family: Arial, sans-serif; background-color: #f0f4f8; text-align: center; padding-top: 50px;">
       <h1 style="color: #2b6cb0; font-size: 36px;">
-        🚀 Welcome to the Node.js DevOps v6!
+        🚀 Welcome to the DevOps v6!
       </h1>
       <p style="font-size: 20px; color: #2d3748;">
          This app is built with <strong>Node.js + Express</strong><br>
