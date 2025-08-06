@@ -2,7 +2,7 @@ name: CI/CD Pipeline
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
 
 jobs:
   build:
@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: kpr2/node-devops-app:latest  # 👈 Replace `kpr2` with your DockerHub username if different
+          tags: kpr2/node-devops-app:latest
