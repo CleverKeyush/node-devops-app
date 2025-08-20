@@ -21,7 +21,7 @@ app.get("/", (req, res) => {
          Automated by <strong>GitHub Actions CI/CD</strong>
       </p>
       <p style="font-size: 18px; color: #4a5568;">
-        Build. Ship. Scale. 🚢
+        Build. Ship. Scale.🚢
       </p>
     </body>
     </html>
